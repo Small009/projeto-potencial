@@ -89,6 +89,41 @@ a:hover {
     }
 }
 
+/*Descrição site*/
+
+.text-descricao h1 {
+    
+         color: #000000;
+         font-family: 'Andale Mono', monospace;
+         text-align: center;
+         margin: 50px;
+         
+    
+}
+
+.text-descricao p {
+    
+         color: #000000;
+         font-family: 'Andale Mono', monospace;
+         text-align: justify;
+        font-size: 18px;
+        margin-right: 100px;
+        margin-left: 100px;
+}
+
+
+
+.text-descricao h2 {
+    
+         color: #000000;
+         font-family: 'Andale Mono', monospace;
+         text-align: center;
+         font-size: 23px;
+          margin-right: 200px;
+         margin-left: 200px;
+         margin-top: 100px;
+}
+
 /* MENU HAMBURGUER */
 
 .checkbox-container {
