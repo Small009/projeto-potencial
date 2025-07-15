@@ -4,13 +4,13 @@ body {
     margin: 0;
     padding: 0;
     color: #ffffff;
-    font-family: 'American Typewriter', serif;
+    font-family: 'Andale Mono', monospace;
 }
 
 /*configurar imagem perfil*/
 .foto{
     height: 200px; 
-    width: 300px; 
+    width: 280x; 
     border-radius: 50px 50px 50px 50px;
     margin: 0 auto;
     display: block;
@@ -37,6 +37,7 @@ h1 {
     text-align: center;
     color: #FFFFFF;
     font-size: 35px;
+    font-family: 'Andale Mono', monospace;
     
     
 }
@@ -60,7 +61,7 @@ h2 {
     color: #ffffff;
     font-size: 24px;
     padding: 1rem 4rem;
-    border: 1px solid #ffffff;
+    border: 5px solid #ffffff;
     border-radius: 5px;
     min-width: 4rem;
     display: flex;
@@ -68,12 +69,12 @@ h2 {
     align-items: center;
     transition: .5s cubic-bezier(0.55, 0.025, 0.675, 0.97);
     margin: 10px 10px 0 0;
-    font-family: 'American Typewriter', serif;
+    font-family: 'Andale Mono', monospace;
 }
 
 a:hover {
     color: #2E1C2B;
-    background-color: #00FF00;
+    background-color: #4682B4;
 }
 
 @keyframes backgroundTransition {
@@ -289,9 +290,9 @@ a:hover {
 }
 
 .card-wrapper h2 {
-    font-size: 30px;
+    font-size: 25px;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     margin: 0;
     transition: 0.3s;
     color: #000000;
